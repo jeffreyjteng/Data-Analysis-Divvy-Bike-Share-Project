@@ -1,1 +1,1 @@
-# Data-Analysis-DIvvy-Bike-Share-Project
+# Data-Analysis-Divvy-Bike-Share-Project
